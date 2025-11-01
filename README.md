@@ -36,9 +36,6 @@ Can be wrapped into a CLI tool or API service for real-world usage.
 - FastAPI (optional for API)
 - Jupyter notebooks for experiments
 
-
-## 📦 Folder Structure
-
 ---
 
 ## 📦 Folder Structure
